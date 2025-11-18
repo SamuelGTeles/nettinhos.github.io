@@ -1,0 +1,6 @@
+# Arquivos temporários do nano
+*.swp
+*.swo
+
+# Arquivos temporários do sistema
+*~
